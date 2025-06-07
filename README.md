@@ -17,7 +17,7 @@
 
 ## 🔗 関連リポジトリ
 - テキスト保存版：[https://github.com/yourname/php-news-txt]
-- 
+
 ## 📜 使用技術
 - PHP（フォーム処理、ファイル保存）
 - HTML / CSS（簡易レイアウト調整）
